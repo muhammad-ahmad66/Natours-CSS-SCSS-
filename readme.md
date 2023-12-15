@@ -6,7 +6,7 @@ This project is a responsive website that puts a strong emphasis on using Sass f
 
 ### Site URL
 
-[Live Preview]('https://muhammad-ahmad66.github.io/Natours-CSS-SCSS-/')
+- Live Preview: [Live Preview](https://muhammad-ahmad66.github.io/Natours-CSS-SCSS-/)
 
 ### Built with
 
@@ -15,4 +15,4 @@ This project is a responsive website that puts a strong emphasis on using Sass f
 
 ### Author
 
-- [Muhammad-Ahmad]('mailto:muhammadugv66@gmail.com');
+[Muhammad-Ahmad](mailto:muhammadugv66@gmail.com);
